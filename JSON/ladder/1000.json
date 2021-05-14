@@ -1,0 +1,4842 @@
+{
+    "total": 15000,
+    "cached_since": "2021-05-14T10:11:05+00:00",
+    "entries": [
+        {
+            "rank": 801,
+            "dead": false,
+            "character": {
+                "id": "7179f1ee103047ec9b494de4df652c975b74af18ad4d3e84df1fe053d66d1c2c",
+                "name": "aurabot_mcqueen",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 4,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Lens0n",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "thelenson"
+                }
+            }
+        },
+        {
+            "rank": 802,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "0181e8ff02280e79a6c7a46334cecf017d1e3985330f861ed965dccee26ab4ae",
+                "name": "kerchiii",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 268,
+                    "solo": 268
+                }
+            },
+            "account": {
+                "name": "\ucf00\ub974\uce58",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                }
+            }
+        },
+        {
+            "rank": 803,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "48c7e40ed96cdd52ab8e8afb3f5f8c8a253d847d61a4268b6393a1f36d173295",
+                "name": "Nazrius",
+                "level": 100,
+                "class": "Juggernaut",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "defenderous",
+                "realm": "pc",
+                "challenges": {
+                    "total": 9
+                },
+                "twitch": {
+                    "name": "chriiss91"
+                }
+            }
+        },
+        {
+            "rank": 804,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "388e311eb43c878f1ca278b6583f81689a1c66c30d15938d861120c26e3e8a6a",
+                "name": "Bigfairy",
+                "level": 100,
+                "class": "Saboteur",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 104,
+                    "solo": 104
+                }
+            },
+            "account": {
+                "name": "bighair",
+                "realm": "pc",
+                "challenges": {
+                    "total": 28
+                },
+                "twitch": {
+                    "name": "rentajohn"
+                }
+            }
+        },
+        {
+            "rank": 805,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "f7166be9b7f014b9334adc83f1d3bca8fbe793218a64631716b2aae0be84c2ad",
+                "name": "felixUltihierophant",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 320,
+                    "solo": 320
+                }
+            },
+            "account": {
+                "name": "felixhi",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "felixkraze"
+                }
+            }
+        },
+        {
+            "rank": 806,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5a9edfe610cc50489284a4812ffcc5857c0afeb0369c278b31ceb045cbf0d77f",
+                "name": "maksi_Bonnie_Rotten",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 248,
+                    "solo": 238
+                }
+            },
+            "account": {
+                "name": "Maksiboo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "maksi600"
+                }
+            }
+        },
+        {
+            "rank": 807,
+            "dead": false,
+            "character": {
+                "id": "ea57f046e01e485e6274e97e7a97e449928dbcbc22925cad9755fa1f84f6f07d",
+                "name": "Norzie_Overpriced",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "norzie",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "norziee"
+                }
+            }
+        },
+        {
+            "rank": 808,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "8af1e486d6af9802998693dbb024399456c84641d4eda019d75e7225b2f7d913",
+                "name": "ShugoGotCovid",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 171,
+                    "solo": 171
+                }
+            },
+            "account": {
+                "name": "GankedByShugo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                }
+            }
+        },
+        {
+            "rank": 809,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "40a2c84a35e580643e255f9c13d1be7db28389c4dcde406324a9931205aa1803",
+                "name": "Ijsbal",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 277,
+                    "solo": 277
+                }
+            },
+            "account": {
+                "name": "siemepp",
+                "realm": "pc",
+                "challenges": {
+                    "total": 32
+                },
+                "twitch": {
+                    "name": "zlizzy1"
+                }
+            }
+        },
+        {
+            "rank": 810,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "78e8ed153a40312bd7916d35266e83194a0a5bd3ac67b0e3572c63cef6c04d09",
+                "name": "Stresspirat",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 50,
+                    "solo": 50
+                }
+            },
+            "account": {
+                "name": "Ch4rsi",
+                "realm": "pc",
+                "challenges": {
+                    "total": 17
+                }
+            }
+        },
+        {
+            "rank": 811,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "60e82a3b2ba13909e25fc8b6cb9cc7109f39d18d787a199234fbbedb8356be3b",
+                "name": "ruiiii",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 40,
+                    "solo": 40
+                }
+            },
+            "account": {
+                "name": "143447",
+                "realm": "pc",
+                "challenges": {
+                    "total": 11
+                }
+            }
+        },
+        {
+            "rank": 812,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "96ba4e5e8102270f27e1d46983bb77edc0aa86f5b93ddb51769e92e04256b7ef",
+                "name": "ultimulacrum",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Db9IB0J7",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                },
+                "twitch": {
+                    "name": "db9iboji"
+                }
+            }
+        },
+        {
+            "rank": 813,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "dbd9bdf13e3dd8c80a67e271212fcf0539403d7d9491ae9ff143aaf4afed3ea0",
+                "name": "SinFallBlade",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 262,
+                    "solo": 262
+                }
+            },
+            "account": {
+                "name": "MaestroV96",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                }
+            }
+        },
+        {
+            "rank": 814,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "579235010244d11ad155d15a200a3285f46989df2a3258d89f680925c77475ae",
+                "name": "Ultimatum_Luna",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 342,
+                    "solo": 342
+                }
+            },
+            "account": {
+                "name": "Ironsmith85",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "ironsmith85"
+                }
+            }
+        },
+        {
+            "rank": 815,
+            "dead": false,
+            "character": {
+                "id": "965b31f4a417a3c6c5c31c8f44efd4a663212b4472e9d5c769577a358c1f8bfb",
+                "name": "Ultimate_Urbanmech",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "roguegoha",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "besrezen_"
+                }
+            }
+        },
+        {
+            "rank": 816,
+            "dead": false,
+            "character": {
+                "id": "5b7f8c40652fcde9d6e4d2ac439440a81bc2c2f0ba6b4797f55c644c38988f8d",
+                "name": "MF_Kalandraa",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Phoenixsk",
+                "realm": "pc",
+                "challenges": {
+                    "total": 14
+                },
+                "twitch": {
+                    "name": "sstudeent"
+                }
+            }
+        },
+        {
+            "rank": 817,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b7bb328c38ff0359d074fb793b68aef3502ceeacdaace7aad74f72c3dc1b68d3",
+                "name": "S\u318dP\u318dE\u318dE\u318dD\u318dO\u318dZ",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Speedoz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                },
+                "twitch": {
+                    "name": "speedoz123"
+                }
+            }
+        },
+        {
+            "rank": 818,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "8a7a5470299c5af772bbd979b84d8060932d50e8b991d5994b609c6e11b00308",
+                "name": "Bellavee",
+                "level": 100,
+                "class": "Champion",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Isabella_FPS",
+                "realm": "pc",
+                "challenges": {
+                    "total": 14
+                }
+            }
+        },
+        {
+            "rank": 819,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "3e9696eee7f0258f9350b9321e675dcfcf122b24941d26de516e196781bf8d0a",
+                "name": "Stonkks",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 30,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "RoflanEbasosina",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                },
+                "twitch": {
+                    "name": "lixeira228"
+                }
+            }
+        },
+        {
+            "rank": 820,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "49e78ee55af9b612befc442d937804eb5634a4bdaa66846727a9b95f3dff7f88",
+                "name": "ZA_UUII",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 184,
+                    "solo": 184
+                }
+            },
+            "account": {
+                "name": "Antisommossa",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "zannare70"
+                }
+            }
+        },
+        {
+            "rank": 821,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "e582f7ef6b4f15e1e2190770f06eb6e931f8e8ccffb1ea6afafca2f01fcf6d67",
+                "name": "JoeBidenUltimatum",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 177,
+                    "solo": 177
+                }
+            },
+            "account": {
+                "name": "SDiana2",
+                "realm": "pc",
+                "challenges": {
+                    "total": 31
+                },
+                "twitch": {
+                    "name": "sneakyplant"
+                }
+            }
+        },
+        {
+            "rank": 822,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "12ae7326b5e1dfd31dca46702a3b2a918c83096e09f312f881922dbe1e0259ad",
+                "name": "riser_brand",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 49,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "riser1337",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                },
+                "twitch": {
+                    "name": "riser1337"
+                }
+            }
+        },
+        {
+            "rank": 823,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "0771a13f7946b0ac1f80d095dc3177f5da5130ac8b9aff057d3dbe38446526f2",
+                "name": "WxUlti_Cloza",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 192,
+                    "solo": 192
+                }
+            },
+            "account": {
+                "name": "Trogonko",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                }
+            }
+        },
+        {
+            "rank": 824,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "9a855128874570addfaf5f26a2db73c3a0a4afd28504e84eb830fe1a6ff26f10",
+                "name": "main_ultimatum",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 212,
+                    "solo": 212
+                }
+            },
+            "account": {
+                "name": "kohichi3",
+                "realm": "pc",
+                "challenges": {
+                    "total": 38
+                }
+            }
+        },
+        {
+            "rank": 825,
+            "dead": false,
+            "character": {
+                "id": "fe63e75762ca8e9c9882767a22747aca5e6ff314c1913988bef68866b84d1016",
+                "name": "IWantSleep",
+                "level": 100,
+                "class": "Trickster",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "CrAzY_0o",
+                "realm": "pc",
+                "challenges": {
+                    "total": 14
+                },
+                "twitch": {
+                    "name": "crazy0o"
+                }
+            }
+        },
+        {
+            "rank": 826,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4b1bad67af0af36ac6021273f8c2a15c89b3311954f7a5b50e4b1846b0fe4b7c",
+                "name": "ULTIWITCHAR",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 171,
+                    "solo": 171
+                }
+            },
+            "account": {
+                "name": "PRINTERUK",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "slawcio22"
+                }
+            }
+        },
+        {
+            "rank": 827,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "f94ad2ba0fd0c435870e35c0d3e4c5701823bd2c9f5ef9ea11260b36649b6f94",
+                "name": "Naughtyus_Maximus",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 336,
+                    "solo": 318
+                }
+            },
+            "account": {
+                "name": "SneakyGod",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "dork_messiah"
+                }
+            }
+        },
+        {
+            "rank": 828,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "f895d6c30b7b6efcc071cb7233467de898c7bfad03c089c28c8d2edc67ddd726",
+                "name": "xXMinionsBeatAllXx",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 239,
+                    "solo": 221
+                }
+            },
+            "account": {
+                "name": "TartarosB",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "tartaros74"
+                }
+            }
+        },
+        {
+            "rank": 829,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b85b551529bed39aecf691400c07deba0885a9ff0a467f98ad9f2646d838bdf9",
+                "name": "FiveWayTheCarry",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 132,
+                    "solo": 132
+                }
+            },
+            "account": {
+                "name": "InsanoBRZ",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "insano0205"
+                }
+            }
+        },
+        {
+            "rank": 830,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ec09f5dd1e53931df44414be9a6e5899f6637908a62a61d6322176166a7b2eca",
+                "name": "Sarkasmos_Liquified",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 81,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Sarkasmos",
+                "realm": "pc",
+                "challenges": {
+                    "total": 35
+                },
+                "twitch": {
+                    "name": "sarkasmoslol"
+                }
+            }
+        },
+        {
+            "rank": 831,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "39b8523e2afcc76ffe2aa0c1eee306dc5c4c15f6e4e472de0bd92d431c8901ab",
+                "name": "cautionTrial",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 127,
+                    "solo": 127
+                }
+            },
+            "account": {
+                "name": "garzillar",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                },
+                "twitch": {
+                    "name": "garzillar"
+                }
+            }
+        },
+        {
+            "rank": 832,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "7e27cc318b94803fbbe2e364e5c95e1f872a456cabb5ee3b55ff36ba03b8d1bb",
+                "name": "Baebaek_UL",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 115,
+                    "solo": 115
+                }
+            },
+            "account": {
+                "name": "Baebaek",
+                "realm": "pc",
+                "challenges": {
+                    "total": 17
+                }
+            }
+        },
+        {
+            "rank": 833,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "bdaceca5712f8dcdf04a34b5d0dacb0bc6c808f743934cb8e2e7ba0735ffbd1c",
+                "name": "AdrenalineUltimatum",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 165,
+                    "solo": 165
+                }
+            },
+            "account": {
+                "name": "watercolor1337",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                },
+                "twitch": {
+                    "name": "iwatercolor"
+                }
+            }
+        },
+        {
+            "rank": 834,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "73a27716352fff5e84bc95ead86d2f448188bf5ba53eff143e33417f5957ce72",
+                "name": "Mask_Ultido",
+                "level": 100,
+                "class": "Trickster",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 142,
+                    "solo": 142
+                }
+            },
+            "account": {
+                "name": "o0M4SK0o",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "o0maks0o"
+                }
+            }
+        },
+        {
+            "rank": 835,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "0a18b9ca98f87046129aa0d1756d4062f9184c7ea14b7e669f981556f89bdcef",
+                "name": "Rapidass",
+                "level": 100,
+                "class": "Gladiator",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 203,
+                    "solo": 203
+                }
+            },
+            "account": {
+                "name": "AgentAntwan",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                },
+                "twitch": {
+                    "name": "agentantwan"
+                }
+            }
+        },
+        {
+            "rank": 836,
+            "dead": false,
+            "character": {
+                "id": "1bcb8237264f5f01a60fda346f4ced2d0fe7e3a91d7062e1e28bbc77371e09e3",
+                "name": "Kaioken__Times_Ten",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 42,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "GodKillHC",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                },
+                "twitch": {
+                    "name": "godkilll"
+                }
+            }
+        },
+        {
+            "rank": 837,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4a52b3beb77d1dfd7c90c6aa4b0214185f98600ef8174fbe1f7050b7f9ce4f4f",
+                "name": "Ulti_solaris",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "goodluckPOE",
+                "realm": "pc",
+                "challenges": {
+                    "total": 12
+                }
+            }
+        },
+        {
+            "rank": 838,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "61d793206fabd998fff4cf0c1a2f623e805d0a7fca915c289780ae069d577005",
+                "name": "AzulLightning",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 201,
+                    "solo": 201
+                }
+            },
+            "account": {
+                "name": "AzulRain",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                }
+            }
+        },
+        {
+            "rank": 839,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "df7429207f6734fd2de089f40baf15612dc9daf0c9d0342d24ccd6d03a176a80",
+                "name": "\uc218\uc544\ub728\ub808\ubd80\uace8",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 205,
+                    "solo": 205
+                }
+            },
+            "account": {
+                "name": "\uc218\uc544\ub728\ub808\ub974\uc591",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                }
+            }
+        },
+        {
+            "rank": 840,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a747985d297f8424d7f168cc837ed5c0b74147b87b59a7a2d2a2d8fd951c1f87",
+                "name": "Riskerina",
+                "level": 100,
+                "class": "Pathfinder",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 206,
+                    "solo": 206
+                }
+            },
+            "account": {
+                "name": "DKShimura",
+                "realm": "pc",
+                "challenges": {
+                    "total": 38
+                },
+                "twitch": {
+                    "name": "dkshimura"
+                }
+            }
+        },
+        {
+            "rank": 841,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "58bafd37617d766f340d40446860651bfcc93bc7530922734b670c4c9936500b",
+                "name": "polsiegeballista",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 222,
+                    "solo": 222
+                }
+            },
+            "account": {
+                "name": "polwilders",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                }
+            }
+        },
+        {
+            "rank": 842,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "1e820d67bd67a29b14b5825c7f716dcf5d468469e29776eea4b7cbaea2d820b9",
+                "name": "babo_Ultimatum",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 189,
+                    "solo": 189
+                }
+            },
+            "account": {
+                "name": "babokeon",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "babokeon"
+                }
+            }
+        },
+        {
+            "rank": 843,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "abfb1cebe079fc5d37f6647f0509b8bb5e817f263b0e8d239f28a60387014bd3",
+                "name": "Eriau_Ultimatum",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 259,
+                    "solo": 259
+                }
+            },
+            "account": {
+                "name": "Eriau",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                }
+            }
+        },
+        {
+            "rank": 844,
+            "dead": false,
+            "character": {
+                "id": "979263d4a6e2374ebef8d8d399e17f6ac1b74877ba35f0ead08386d7a060c22c",
+                "name": "Hamabar",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 197,
+                    "solo": 197
+                }
+            },
+            "account": {
+                "name": "Humabon",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                }
+            }
+        },
+        {
+            "rank": 845,
+            "dead": false,
+            "character": {
+                "id": "95daff269ccd66c3eea89c92c811a562279382b204206978472ff8436b5f49c9",
+                "name": "TheSlowRush",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "yoLusca",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "notluscabtw"
+                }
+            }
+        },
+        {
+            "rank": 846,
+            "dead": false,
+            "character": {
+                "id": "d814a7137a50b34eb7440d0f48003b1b154d73a5d8840317c0535a0121a08ed7",
+                "name": "DGee_",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "DGee",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "dgeeeeee"
+                }
+            }
+        },
+        {
+            "rank": 847,
+            "dead": false,
+            "character": {
+                "id": "8810970f0d1e36b11351edb4ae7bccd8c20eaa0f982f3578601c05b30296d547",
+                "name": "zxchornydemon",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 37,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "nefritoviyterrorist",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "jadeterr"
+                }
+            }
+        },
+        {
+            "rank": 848,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "1f8d620685811e4b084fad0666cc58b69596829396d59551f727cf8f4d2fa144",
+                "name": "ULTIMATUM_ORZ_QQ",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 123,
+                    "solo": 123
+                }
+            },
+            "account": {
+                "name": "Yilu",
+                "realm": "pc",
+                "challenges": {
+                    "total": 31
+                }
+            }
+        },
+        {
+            "rank": 849,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a727eea35fa71df1790a12995131799d798fe4f7fe9eca54c9b5071d144b454f",
+                "name": "GreenPig_GreedisGood",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 40,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "xycl0ps",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "greeeeenpig"
+                }
+            }
+        },
+        {
+            "rank": 850,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a7c06464b2686b03c250be6fef8f09a3ff61ab2d9124c9351bb410f7b81afe4e",
+                "name": "onfuryxv",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 48,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "jeankunjeong",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                }
+            }
+        },
+        {
+            "rank": 851,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "1f1a91933c71a904192ae8a371023affd62e01d69d2a3e25f27bc37c9675419a",
+                "name": "RetardedNameCoomCheese",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 41,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "orphenjnr",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                },
+                "twitch": {
+                    "name": "angelbeal2"
+                }
+            }
+        },
+        {
+            "rank": 852,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "1ecf34f0273abcd0262da903cc6d4e0c54afec4d6420f445b8a05a7d796bbd14",
+                "name": "RaiderMoreToxicThanEx",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 37,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "aldodzb",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "aldodzb"
+                }
+            }
+        },
+        {
+            "rank": 853,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d991d2be5101bd8355ddf566dd16a25b923d9ab8beaa76be3d9b7d735486a522",
+                "name": "Arin_Ult",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 261,
+                    "solo": 261
+                }
+            },
+            "account": {
+                "name": "Som_e",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                },
+                "twitch": {
+                    "name": "feel1278"
+                }
+            }
+        },
+        {
+            "rank": 854,
+            "dead": false,
+            "character": {
+                "id": "a1a833c1680cd54d625108baa103f7d29007b9ba04e1cba14cafdf55b3bb49cd",
+                "name": "PAIVAAAAAA",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 40,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Paiva209",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                },
+                "twitch": {
+                    "name": "paivabuff"
+                }
+            }
+        },
+        {
+            "rank": 855,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d791942d3cc71b40b81966b2e58555a9c8ab5d24f062cf91b56616437b5a1e35",
+                "name": "fittoneII",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 50,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "fittone03",
+                "realm": "pc",
+                "challenges": {
+                    "total": 35
+                },
+                "twitch": {
+                    "name": "cromomo"
+                }
+            }
+        },
+        {
+            "rank": 856,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "6fc376b7f765691afc53c140bcd3d991abb3ca8f8518b2a305e45fb02059a3d6",
+                "name": "Dicotyledone",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Ruhoqai",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                },
+                "twitch": {
+                    "name": "kreutzer_"
+                }
+            }
+        },
+        {
+            "rank": 857,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "39a88636c87f0f7d1b2e1429e18362c21344c3993a08b50777c43aba8e7455b1",
+                "name": "MethodGary",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 179,
+                    "solo": 179
+                }
+            },
+            "account": {
+                "name": "GeneralGonorrhea",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                },
+                "twitch": {
+                    "name": "general_gonorrhea"
+                }
+            }
+        },
+        {
+            "rank": 858,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "683fcd7d82c553f7756fba0c39a3d8278694e30f30560cb0d8580ef4f9218baf",
+                "name": "Thinh_Ultimatum",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 37,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "0912341412",
+                "realm": "pc",
+                "challenges": {
+                    "total": 7
+                },
+                "twitch": {
+                    "name": "kakaka8060"
+                }
+            }
+        },
+        {
+            "rank": 859,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c5e9316372f3e94d173cf62747695997782670d29f468cb959eac3b3c8459209",
+                "name": "enemyBL",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 209,
+                    "solo": 209
+                }
+            },
+            "account": {
+                "name": "lCoToHal",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                }
+            }
+        },
+        {
+            "rank": 860,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "baa3549a3a9c2e27695c9ce841d9b485462285475489495a0cbfd5583042f5e6",
+                "name": "BackForMoreCOC",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "rklwow",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                }
+            }
+        },
+        {
+            "rank": 861,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "496cc964fdaaac432d2eba087c644b0cfd72ec46962b1a8fef71bead39451201",
+                "name": "SUP_Ultimatum",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 446,
+                    "solo": 446
+                }
+            },
+            "account": {
+                "name": "\uc12d\uc12d\uc12d",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "supsup223"
+                }
+            }
+        },
+        {
+            "rank": 862,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5e22a2d173e346de2166d83198fe38e23997103d40059c1e7a466b2c1ba60948",
+                "name": "Kikilias",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 10,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Poulaki",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "neptec"
+                }
+            }
+        },
+        {
+            "rank": 863,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "6be4cb7d23d7eba05f6afd2fc17e2fce1eeb7e6b520508d7908fc124889d2fe7",
+                "name": "CevethAuraen",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 121,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Ceveth",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                },
+                "twitch": {
+                    "name": "zonkiside"
+                }
+            }
+        },
+        {
+            "rank": 864,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ee4b3e253c31b57664859ead91018bdfe1dde7b0e9f4b26de5a3c58959dde72d",
+                "name": "Juicy_ShockanAwe",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 249,
+                    "solo": 249
+                }
+            },
+            "account": {
+                "name": "Aus_Hussein",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "aushus"
+                }
+            }
+        },
+        {
+            "rank": 865,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "83d73a2f6a1c411dba48f556936658de1a4e4df7524696add2c38bf8f02c23ca",
+                "name": "WinterzisComming",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 302,
+                    "solo": 302
+                }
+            },
+            "account": {
+                "name": "Cptn_Winterz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                },
+                "twitch": {
+                    "name": "cptn_winterz"
+                }
+            }
+        },
+        {
+            "rank": 866,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "25c29267b4511964ed168d1def20e9f1d6f18bb1595891aae7481f848664d784",
+                "name": "KarnsocoolUL",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 248,
+                    "solo": 248
+                }
+            },
+            "account": {
+                "name": "Karnsocool",
+                "realm": "pc",
+                "challenges": {
+                    "total": 28
+                }
+            }
+        },
+        {
+            "rank": 867,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4b3c26ace05a9e7850424d6f5e27295278cd88d5fd34600c874548b97fce6276",
+                "name": "\uc2e0\uc9c1\uc5c5",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "skek6166",
+                "realm": "pc",
+                "challenges": {
+                    "total": 16
+                }
+            }
+        },
+        {
+            "rank": 868,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "cdbded9113d7222d5f2faf430d607350f26e10edfd4ba8b07f552e3cb5a6a3b3",
+                "name": "Ting_Flickboi",
+                "level": 100,
+                "class": "Gladiator",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 410,
+                    "solo": 410
+                }
+            },
+            "account": {
+                "name": "Khrest",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "tingcos"
+                }
+            }
+        },
+        {
+            "rank": 869,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "36b06d2d6109b1bce9bd1c96405fb123b7fdb4cec873092bd66bba3a1249693b",
+                "name": "_Ontop_Ultimatum",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 242,
+                    "solo": 242
+                }
+            },
+            "account": {
+                "name": "maydie13",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "maydie13"
+                }
+            }
+        },
+        {
+            "rank": 870,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "2d65e6711c33082267da28f876249279d2a1efb399aedda9a887a6125d83a029",
+                "name": "Ultimatum_SlayerCyclone",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 197,
+                    "solo": 197
+                }
+            },
+            "account": {
+                "name": "LEE_SEUNG_MIN",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "operatior11"
+                }
+            }
+        },
+        {
+            "rank": 871,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "05466a24a2fd968b477e8c045d704b075db659a201ff7af4192bd4015810a017",
+                "name": "Mayonnaise_Raccoon",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 259,
+                    "solo": 259
+                }
+            },
+            "account": {
+                "name": "\uc720\uae30\ub18d\ub108\uad6c\ub9ac",
+                "realm": "pc",
+                "challenges": {
+                    "total": 39
+                },
+                "twitch": {
+                    "name": "larsyd"
+                }
+            }
+        },
+        {
+            "rank": 872,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "79c5efbb300303203c771cc8c24d31bad1b9c49a04a0bd625f8cf7689f92babb",
+                "name": "AuraNerfedLOL",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 208,
+                    "solo": 208
+                }
+            },
+            "account": {
+                "name": "Subform",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                },
+                "twitch": {
+                    "name": "subformnz"
+                }
+            }
+        },
+        {
+            "rank": 873,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "70043f3ae6c0b4afee72f1dc77be43ccab123fe91bfc605844c3ff79c653e69d",
+                "name": "Cutie_Crabbie",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Krabmeister",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                },
+                "twitch": {
+                    "name": "krabmeisterdk"
+                }
+            }
+        },
+        {
+            "rank": 874,
+            "dead": false,
+            "character": {
+                "id": "eaca7d489f83a4977f30c9795facc15862cb9e4e870885aeb334b43918a48437",
+                "name": "atixed",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "DeCxDeC",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                }
+            }
+        },
+        {
+            "rank": 875,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "43e13429bd755491a367583cc1070210260365d87e56c638d2e21faf8ccfb5e6",
+                "name": "aged_from_login_queue",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 378,
+                    "solo": 378
+                }
+            },
+            "account": {
+                "name": "akatosh100",
+                "realm": "pc",
+                "challenges": {
+                    "total": 32
+                },
+                "twitch": {
+                    "name": "lolretkj"
+                }
+            }
+        },
+        {
+            "rank": 876,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "772ba04226c142ae1b4322cf503b2feb69092aa7fe93729afd96f94de4e87544",
+                "name": "Crazy_Pulse",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 228,
+                    "solo": 228
+                }
+            },
+            "account": {
+                "name": "CrazyPulse",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "zzzuroqwe"
+                }
+            }
+        },
+        {
+            "rank": 877,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "021055dc59321768e65cb6f21ec0966003760ecafa4eb3c84fe17fe3825c45ab",
+                "name": "DaddyMakeToysOutOfYou_",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "ScampSoul",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                },
+                "twitch": {
+                    "name": "daddypepegagaming"
+                }
+            }
+        },
+        {
+            "rank": 878,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "002b68c7042142e8919d4953c10af6e2ab5f17f81e3f90740c77d97443cc7782",
+                "name": "Douyuzhiai",
+                "level": 100,
+                "class": "Juggernaut",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 410,
+                    "solo": 410
+                }
+            },
+            "account": {
+                "name": "zhiai",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                }
+            }
+        },
+        {
+            "rank": 879,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4721d3a00d4e606629a8014f80bc059e8e624f3326aeba2d6aa610e37e3ddf21",
+                "name": "Ozy_Ultimatum",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Ozy____________________",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "zonezazaz0"
+                }
+            }
+        },
+        {
+            "rank": 880,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ac047c84c5ece2c413f3ad8d40e5a084e69c1ba27beea016b243ef1ab1fcb642",
+                "name": "FridoBerserk",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 250,
+                    "solo": 250
+                }
+            },
+            "account": {
+                "name": "meinschaatz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                },
+                "twitch": {
+                    "name": "frido999"
+                }
+            }
+        },
+        {
+            "rank": 881,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c11e407153797fe6641951092218789d681de8212739adf9c17adf9d759ed0cd",
+                "name": "\uc5d8\ud79b\uc774\uc9f1\uc784",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 80,
+                    "solo": 80
+                }
+            },
+            "account": {
+                "name": "asg3195",
+                "realm": "pc",
+                "challenges": {
+                    "total": 16
+                }
+            }
+        },
+        {
+            "rank": 882,
+            "dead": false,
+            "character": {
+                "id": "aec27968a2b75268e87131e802386e3aea172d3f8c1123d7c9e0feca24df5e6e",
+                "name": "Ultimatum_Taciturn_Quan",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 212,
+                    "solo": 212
+                }
+            },
+            "account": {
+                "name": "cutepepe",
+                "realm": "pc",
+                "challenges": {
+                    "total": 31
+                },
+                "twitch": {
+                    "name": "arlong21"
+                }
+            }
+        },
+        {
+            "rank": 883,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "300bd0a896e256d31aa7e4434404dc73feb0277bf374b9b2ffc8ae098f5dc59f",
+                "name": "KOMODOTOES",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 90,
+                    "solo": 90
+                }
+            },
+            "account": {
+                "name": "azzyskies",
+                "realm": "pc",
+                "challenges": {
+                    "total": 39
+                },
+                "twitch": {
+                    "name": "vorrakas"
+                }
+            }
+        },
+        {
+            "rank": 884,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b91107efb1afb2efc2eada9292eccc72b923d2b31d6b9181351506c787d9c36f",
+                "name": "UgluzBlades",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 180,
+                    "solo": 180
+                }
+            },
+            "account": {
+                "name": "Ugluz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "worstmonkeyeu"
+                }
+            }
+        },
+        {
+            "rank": 885,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5f0bb91a4052442f9b011ab949c2990eedee4c48b178de6bf5d0d877fd502616",
+                "name": "_Scaaba_",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 355,
+                    "solo": 355
+                }
+            },
+            "account": {
+                "name": "JackFlash_",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                },
+                "twitch": {
+                    "name": "jackflash__"
+                }
+            }
+        },
+        {
+            "rank": 886,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "217da675cc4c452dbc066f2dba5f01b0e7a7c15162c83df42b29f4cb8b65ade9",
+                "name": "FreezingDurew",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 181,
+                    "solo": 181
+                }
+            },
+            "account": {
+                "name": "durew",
+                "realm": "pc",
+                "challenges": {
+                    "total": 38
+                },
+                "twitch": {
+                    "name": "durew"
+                }
+            }
+        },
+        {
+            "rank": 887,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "608db618030004317f7d505497bed77c17ae9e3cc8bccd230e8b16e5bf30f2d0",
+                "name": "ToothStone",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 391,
+                    "solo": 391
+                }
+            },
+            "account": {
+                "name": "T00thpiick",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "t00thpick83"
+                }
+            }
+        },
+        {
+            "rank": 888,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c2b10292025f94de202168b985505d675b1f7b50124287a022556909858da43a",
+                "name": "JerleUltimator",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 186,
+                    "solo": 186
+                }
+            },
+            "account": {
+                "name": "Jerle",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "jerlegaming"
+                }
+            }
+        },
+        {
+            "rank": 889,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "031bd2e99d61a6c78e4aa1980e895bc9aba82d2e39748ade21b3b770f60368cc",
+                "name": "HeatSeekingBallistas",
+                "level": 100,
+                "class": "Juggernaut",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 144,
+                    "solo": 144
+                }
+            },
+            "account": {
+                "name": "Rizell",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                },
+                "twitch": {
+                    "name": "rzll6"
+                }
+            }
+        },
+        {
+            "rank": 890,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "51d6b950e353eba559d81132e3e567293bef1f100f45afb33da06341e5142019",
+                "name": "Pipatouch",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 2,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Waggery",
+                "realm": "pc",
+                "challenges": {
+                    "total": 35
+                },
+                "twitch": {
+                    "name": "waggeryt"
+                }
+            }
+        },
+        {
+            "rank": 891,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "fde40c542e4f8bbfabcac13e0f915684dc7bd1660b6a994ad1d734f07ca09854",
+                "name": "PiLiga",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 210,
+                    "solo": 210
+                }
+            },
+            "account": {
+                "name": "Noobzor0",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                }
+            }
+        },
+        {
+            "rank": 892,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5b7ae64d046959423f144038e4d5155752b1578a434b0feb899c439ec8fc4f60",
+                "name": "iHuntWabbitz",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "d_stoyanov",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "awakend3mon"
+                }
+            }
+        },
+        {
+            "rank": 893,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4cbb129441500f88ab4c011d51eb654f012422f11c6786a01ac403ec1c4f94c2",
+                "name": "BrightEnot",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 194,
+                    "solo": 51
+                }
+            },
+            "account": {
+                "name": "Podvip",
+                "realm": "pc",
+                "challenges": {
+                    "total": 32
+                },
+                "twitch": {
+                    "name": "belkaenote"
+                }
+            }
+        },
+        {
+            "rank": 894,
+            "dead": false,
+            "character": {
+                "id": "ff04ee6df3078a84005df328c6ee0c6ef2f9ba51896ef766644341e3bc849c54",
+                "name": "\u0417\u043b\u043e\u0431\u043d\u0430\u041d\u0435\u0432\u0435\u0441\u0442\u0443\u043b\u043a\u0430",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 204,
+                    "solo": 204
+                }
+            },
+            "account": {
+                "name": "xDANIHAKERAx",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "danitumbaka"
+                }
+            }
+        },
+        {
+            "rank": 895,
+            "dead": false,
+            "character": {
+                "id": "3db670c3c10af2bbad89f3e7baaca069bb9c7cbe645a4eb5a132f24df86e3796",
+                "name": "Choppachamp",
+                "level": 100,
+                "class": "Champion",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 40,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "choppaGod",
+                "realm": "pc",
+                "challenges": {
+                    "total": 12
+                },
+                "twitch": {
+                    "name": "bennboy6189"
+                }
+            }
+        },
+        {
+            "rank": 896,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a31f7f777b7c6485d7e1f94297d26bcb74489b5bed9956b1c8fda6e4e382c5da",
+                "name": "kuli_USC",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 196,
+                    "solo": 196
+                }
+            },
+            "account": {
+                "name": "kulii",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                },
+                "twitch": {
+                    "name": "kulii"
+                }
+            }
+        },
+        {
+            "rank": 897,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ab1715ea68f3ac7577b996c163db41d3bbe04a35436380556662ce60b447a7dd",
+                "name": "Rampage_Grandpa",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 348,
+                    "solo": 348
+                }
+            },
+            "account": {
+                "name": "Rampage_Duck",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "ruinluna"
+                }
+            }
+        },
+        {
+            "rank": 898,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c7bc04beee71fb5de02730b64771b407a63aa7afd049ae4483deca84895644fb",
+                "name": "\ud398\ud30c\ub2ec\ub9c1",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 41,
+                    "solo": 41
+                }
+            },
+            "account": {
+                "name": "\ub808\ubaa8\ub124\uc774\ub4dc",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                }
+            }
+        },
+        {
+            "rank": 899,
+            "dead": false,
+            "character": {
+                "id": "701da287b5207cdbbb9b876099babdece2e79cd039f80ceaaf268ded9da92be3",
+                "name": "Celedith_Ultimatum",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 300,
+                    "solo": 300
+                }
+            },
+            "account": {
+                "name": "Celedith",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                }
+            }
+        },
+        {
+            "rank": 900,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "45ad44da12fa8a476b8b11d0be2980edfaf0015fce3a5b8d0aa3e1dc19eb99b5",
+                "name": "AdelUltimatoBot",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Zsaign",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                },
+                "twitch": {
+                    "name": "zsaign"
+                }
+            }
+        },
+        {
+            "rank": 901,
+            "dead": false,
+            "character": {
+                "id": "8de5c30418026d6de28484f301a1b463c6e8fd6db1758989002cdf468a83e826",
+                "name": "Texture\u318dStreaming",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 217,
+                    "solo": 211
+                }
+            },
+            "account": {
+                "name": "kaunet",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "kaunet23"
+                }
+            }
+        },
+        {
+            "rank": 902,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "fc44a23eb461ced3cd9da283c5aec1692828d204d3fc653906e5e8ac411d302b",
+                "name": "Ultima_star",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 217,
+                    "solo": 217
+                }
+            },
+            "account": {
+                "name": "scaramouthe",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                }
+            }
+        },
+        {
+            "rank": 903,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5bcdfcea1c98c81a9ff645bce2868fb058a03beee7e9e8c75274fae222e88808",
+                "name": "DellsBitch",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "jjm1998jjm",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                },
+                "twitch": {
+                    "name": "jimjimm1"
+                }
+            }
+        },
+        {
+            "rank": 904,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a402ae349db42b5bc38690f51312faa05c997f6504160ffef672c3a5d94e103c",
+                "name": "X_ChiN_X",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 341,
+                    "solo": 341
+                }
+            },
+            "account": {
+                "name": "Gigamash",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "superdark3"
+                }
+            }
+        },
+        {
+            "rank": 905,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "7566c92299b4b1842f9df0473a911c5c7d633eedc085acc2ac15ef984ecc160a",
+                "name": "UltimungusBungus",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 314,
+                    "solo": 314
+                }
+            },
+            "account": {
+                "name": "Yorkerk",
+                "realm": "pc",
+                "challenges": {
+                    "total": 31
+                },
+                "twitch": {
+                    "name": "yorkerk"
+                }
+            }
+        },
+        {
+            "rank": 906,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b13596990d4d829e8da78a55bd43246e1863ccf94dc016568ad0c8ea12580654",
+                "name": "ZoomZoomKaBoomBoom",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 36,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Datasdo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 12
+                },
+                "twitch": {
+                    "name": "datasdo"
+                }
+            }
+        },
+        {
+            "rank": 907,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4f1f964f77c5ce20a7ef2ccc2dc932555dc39941e2108aeabeb637295322d4bd",
+                "name": "Burning_Maniac",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 150,
+                    "solo": 150
+                }
+            },
+            "account": {
+                "name": "maniac_cro",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                },
+                "twitch": {
+                    "name": "cro_maniac"
+                }
+            }
+        },
+        {
+            "rank": 908,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d42a3d0c5b3cbd513f73d49261102b2aa38d187d8dca6ea33d908817d9b38586",
+                "name": "AOY_Ultimatium",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 214,
+                    "solo": 214
+                }
+            },
+            "account": {
+                "name": "phuaoyama",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "phuaoyama"
+                }
+            }
+        },
+        {
+            "rank": 909,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4b9ce9123f641f5bb1c8a191dc792200db3985ad6f3862e0c99474d6de2c57e0",
+                "name": "PotatowillsaveYou",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "PotatoWoman2412",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                },
+                "twitch": {
+                    "name": "potatolovescoffee"
+                }
+            }
+        },
+        {
+            "rank": 910,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "475710d13a4d389d3d375ad8d29b36d1df051975aa94e1900551e13516c961a2",
+                "name": "WhyUltimWhenFuckinDudes",
+                "level": 100,
+                "class": "Juggernaut",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 132,
+                    "solo": 132
+                }
+            },
+            "account": {
+                "name": "STDeeez_Nuts",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "cuz_jon"
+                }
+            }
+        },
+        {
+            "rank": 911,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "6e10aedb11b95d4013ce45007b92dd7a163278d8cbbbc229486c8c4297f7b3af",
+                "name": "FreezyBoyBob",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 375,
+                    "solo": 375
+                }
+            },
+            "account": {
+                "name": "Drattz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                },
+                "twitch": {
+                    "name": "drattzz"
+                }
+            }
+        },
+        {
+            "rank": 912,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "de72a8db28157b277f7cae7a194f762d5d7ee1cb2e36d1ba4d4f2ffb4ae35f53",
+                "name": "qOrbusier",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 36,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "bOrbusier",
+                "realm": "pc",
+                "challenges": {
+                    "total": 37
+                },
+                "twitch": {
+                    "name": "borbusier"
+                }
+            }
+        },
+        {
+            "rank": 913,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4ebb50ff28201560268e429cc29698afe05a879f3916cbfb44ea3c21067903cf",
+                "name": "TacPact",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 248,
+                    "solo": 248
+                }
+            },
+            "account": {
+                "name": "Zergburgler",
+                "realm": "pc",
+                "challenges": {
+                    "total": 38
+                },
+                "twitch": {
+                    "name": "zergburgler"
+                }
+            }
+        },
+        {
+            "rank": 914,
+            "dead": false,
+            "character": {
+                "id": "d3329b97bb72f9100e0f880ad36e01bbf0fcd6b6351490fbe84509478c31b62e",
+                "name": "Adult_Aurabot",
+                "level": 100,
+                "class": "Guardian",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "R_JAE",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                }
+            }
+        },
+        {
+            "rank": 915,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "3430b72f79d5e583970b16fcab0553b903e0644685d5abb67bf723af4a7a0bdf",
+                "name": "Indiefoxx_Moderator",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "TayVaNo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 14
+                },
+                "twitch": {
+                    "name": "tayvano"
+                }
+            }
+        },
+        {
+            "rank": 916,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "53c0caed89fedd092942fe7acacea1ee8a73b737379cd37714cf5e09fa66e7f3",
+                "name": "YAO_Toxic",
+                "level": 100,
+                "class": "Pathfinder",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 91,
+                    "solo": 91
+                }
+            },
+            "account": {
+                "name": "a397555815",
+                "realm": "pc",
+                "challenges": {
+                    "total": 13
+                },
+                "twitch": {
+                    "name": "jzxa888888"
+                }
+            }
+        },
+        {
+            "rank": 917,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "72b8b514bb51000a79ccf7bea49e910ceecfe39fbdaedb10fe87c67415e36a3d",
+                "name": "\u0e2b\u0e35\u0e2b\u0e19\u0e39\u0e2b\u0e2d\u0e21\u0e21\u0e31\u0e49\u0e22",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 38,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "poetheera123",
+                "realm": "pc",
+                "challenges": {
+                    "total": 10
+                }
+            }
+        },
+        {
+            "rank": 918,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "89712a1203c02419c9a419020e11259e31190eb7b9e41d209317c4b770afc1cc",
+                "name": "Rose_Battery",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "frinibaby",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "rosedeouff"
+                }
+            }
+        },
+        {
+            "rank": 919,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c1cd4959b08f18f48a0e8fdcb5d351f65e5d498026e0a84fa2b42a55af092719",
+                "name": "Dimonztor",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 151,
+                    "solo": 151
+                }
+            },
+            "account": {
+                "name": "DimonOne",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "dimon1one"
+                }
+            }
+        },
+        {
+            "rank": 920,
+            "dead": false,
+            "character": {
+                "id": "0f4d0906f33726c9a7616d88dab0c36f2a915e2183d3af02afd44f33b6eeed09",
+                "name": "Falling_Ultimatum_VIII",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Heavenz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                }
+            }
+        },
+        {
+            "rank": 921,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "e236357ee6cd55f0ae0944f7862c43ad9c29f02770682cd5c5c1af7eeccc8f27",
+                "name": "Byonagolem",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Byona",
+                "realm": "pc",
+                "challenges": {
+                    "total": 32
+                },
+                "twitch": {
+                    "name": "byona_codex"
+                }
+            }
+        },
+        {
+            "rank": 922,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "0747ab4194a3fff05018e2f8b15399b14e941ede5700391f46fc79a845cee211",
+                "name": "Nolnordo",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 181,
+                    "solo": 181
+                }
+            },
+            "account": {
+                "name": "ZeroDay680",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "twiomn"
+                }
+            }
+        },
+        {
+            "rank": 923,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "64e2c7dab02c5fcfb898e5023c44b81ed47b691841be1a778cb384555c92e736",
+                "name": "EliSmall",
+                "level": 100,
+                "class": "Saboteur",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 42,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "mornikbey",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "mornikbey"
+                }
+            }
+        },
+        {
+            "rank": 924,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "91dad2f11ab8a9fb25d9eeef16b04f6a567442d6e49014a75fdd1b64b89855df",
+                "name": "Deefrium",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 290,
+                    "solo": 290
+                }
+            },
+            "account": {
+                "name": "Rainbow4Dashi",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                },
+                "twitch": {
+                    "name": "cmdrdashie"
+                }
+            }
+        },
+        {
+            "rank": 925,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "e9c4d0fc5b9924751ca857a1235a39503dcd7f831efb7e7358000fa49fe03541",
+                "name": "TeraTotems",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 345,
+                    "solo": 345
+                }
+            },
+            "account": {
+                "name": "Terasaur",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                }
+            }
+        },
+        {
+            "rank": 926,
+            "dead": false,
+            "character": {
+                "id": "d97498822bf1de10f3b67ba4ccf251fc47ca5d2da242f9f7cc193074effbabd7",
+                "name": "IsNotOverBB",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "fllk1o",
+                "realm": "pc",
+                "challenges": {
+                    "total": 13
+                },
+                "twitch": {
+                    "name": "qkkroadtodie"
+                }
+            }
+        },
+        {
+            "rank": 927,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a94a25ff95386568e2869f2a0845a28e927997fd4e4c1b9c6a1897e7b7a1b28e",
+                "name": "ChugJugsWithTheBois",
+                "level": 100,
+                "class": "Trickster",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 185,
+                    "solo": 185
+                }
+            },
+            "account": {
+                "name": "Crystallze",
+                "realm": "pc",
+                "challenges": {
+                    "total": 17
+                },
+                "twitch": {
+                    "name": "crystallize123"
+                }
+            }
+        },
+        {
+            "rank": 928,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "535e9541f542a4255c919d027438be270cfaf41a1c31b528437457fd4ba9ce2f",
+                "name": "PathOfMatthIsMyWaifu",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "kustommek",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "kustommek"
+                }
+            }
+        },
+        {
+            "rank": 929,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "cc43923963c53ccdab58e4aa7c73e104a6379d1c7d9bf604ef233e5e8dafb752",
+                "name": "Lou_Sassol_Vole",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 242,
+                    "solo": 242
+                }
+            },
+            "account": {
+                "name": "tpot94",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "tpot94"
+                }
+            }
+        },
+        {
+            "rank": 930,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "656c7e9564f6a98b302e451c1983b96c5ee5de81ee706ff5a2037a196dbc789d",
+                "name": "DesselUltimatum",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 272,
+                    "solo": 272
+                }
+            },
+            "account": {
+                "name": "DesselDyad",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                },
+                "twitch": {
+                    "name": "fyrsten666"
+                }
+            }
+        },
+        {
+            "rank": 931,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b82daea39d503386b225197e77712453b45c9ed946bf6806af7db6207b3d1549",
+                "name": "vesus_vakaras",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 54,
+                    "solo": 54
+                }
+            },
+            "account": {
+                "name": "deitonas",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "hafest"
+                }
+            }
+        },
+        {
+            "rank": 932,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "08655be154021b9f670542170b72d93ea970bca0d624984b2a0ce3f2cb948ff6",
+                "name": "_TeT_",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 241,
+                    "solo": 241
+                }
+            },
+            "account": {
+                "name": "Tettz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                },
+                "twitch": {
+                    "name": "tettx"
+                }
+            }
+        },
+        {
+            "rank": 933,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "4721835254c0a64859200d62e34e3584ee11e749b90c47fae662323b793dc5bc",
+                "name": "LettheBlizzardTakeover",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 119,
+                    "solo": 48
+                }
+            },
+            "account": {
+                "name": "Magnifque",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "bbbb434"
+                }
+            }
+        },
+        {
+            "rank": 934,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "54bbf0b7ef9d7b65d8041d4b637e9297201b6d1179807850acd838152800af8a",
+                "name": "Gift_To_The_COCess",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "lowerdark",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                }
+            }
+        },
+        {
+            "rank": 935,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d556a25a17450e17a6307edd4e71ed84a2b51777ad45aaa705eab3e2d57d461f",
+                "name": "FiireGanS",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 297,
+                    "solo": 297
+                }
+            },
+            "account": {
+                "name": "Ch3GuEv4rA",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "ch3guevar4"
+                }
+            }
+        },
+        {
+            "rank": 936,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "470144fc23f630a2d69b07e971234afd139a056a2e41bd3ed2419bfe1d4f4b11",
+                "name": "Xires",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 65,
+                    "solo": 65
+                }
+            },
+            "account": {
+                "name": "pewwz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                },
+                "twitch": {
+                    "name": "kingpewz"
+                }
+            }
+        },
+        {
+            "rank": 937,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "c4f2a02cd1a3f8464e74c323ebafedfd1ffce277c335b6057b9e32408a7074c2",
+                "name": "coc_gobbler_",
+                "level": 100,
+                "class": "Inquisitor",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "bkrav27",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "bloodkraven_"
+                }
+            }
+        },
+        {
+            "rank": 938,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "89a6ce7276608a22db9629e00a6d24ef8835c1bf57908a36c5247c73fb5578a8",
+                "name": "KorvaakTheForgotten",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 469,
+                    "solo": 469
+                }
+            },
+            "account": {
+                "name": "pathjk",
+                "realm": "pc",
+                "challenges": {
+                    "total": 38
+                },
+                "twitch": {
+                    "name": "pathlol"
+                }
+            }
+        },
+        {
+            "rank": 939,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "41b4af11baaba85468ffdcd62261580cc6c9e9f261c7b522acf91553420bb20a",
+                "name": "EscortForMoney",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "inertia1",
+                "realm": "pc",
+                "challenges": {
+                    "total": 28
+                }
+            }
+        },
+        {
+            "rank": 940,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "67efbcece15ad10d2537990e782e81ab22bd50872548e4272a2e08957b9232e2",
+                "name": "Sttag",
+                "level": 100,
+                "class": "Pathfinder",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 40,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Baguettte",
+                "realm": "pc",
+                "challenges": {
+                    "total": 11
+                }
+            }
+        },
+        {
+            "rank": 941,
+            "dead": false,
+            "character": {
+                "id": "4d2723821e0e8da35ca5a8c4741b6fc46468f92a4f7a7bdaa873e999891c7329",
+                "name": "Dizzymana",
+                "level": 100,
+                "class": "Guardian",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Romanic666",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "romanic666"
+                }
+            }
+        },
+        {
+            "rank": 942,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "78efe4e6daf77b4f700e25c557948627bf0439aac9c680d573213cb3449ce837",
+                "name": "BilugaB",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "coolalper",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "beilig"
+                }
+            }
+        },
+        {
+            "rank": 943,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "78aaebd0b6066b4ad6ece4e48fc11ef07efde68676b1fd3afc6d972fb0e2a5b1",
+                "name": "Magico_das_Magia_UTM",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "BlasterCannon2",
+                "realm": "pc",
+                "challenges": {
+                    "total": 16
+                }
+            }
+        },
+        {
+            "rank": 944,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ae029fe84b75d8d7b6af2c09fb84b49b67c033e0878cc29d2ebd7ee80800c99a",
+                "name": "DEVI_FUJIN",
+                "level": 100,
+                "class": "Gladiator",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 209,
+                    "solo": 209
+                }
+            },
+            "account": {
+                "name": "Raito_26",
+                "realm": "pc",
+                "challenges": {
+                    "total": 31
+                },
+                "twitch": {
+                    "name": "mentai_r"
+                }
+            }
+        },
+        {
+            "rank": 945,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5598c9e79dd859869d258e2171b6c18ba0bfbf126fd198e9d550979560e8b255",
+                "name": "HankiePanky",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 193,
+                    "solo": 193
+                }
+            },
+            "account": {
+                "name": "gbreaker36",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                }
+            }
+        },
+        {
+            "rank": 946,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "daf6b12364b84d48da35636b6e382386289fe7f41f6a02b0bf4c6d860bcf99e1",
+                "name": "SlayerWinterOrbUlt",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 245,
+                    "solo": 245
+                }
+            },
+            "account": {
+                "name": "Night_Zero",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "bzc_zero"
+                }
+            }
+        },
+        {
+            "rank": 947,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ffd28452ac7694da7a6e875bf907a1d8606111888d558075c41e2a65da3a5bf6",
+                "name": "InsBloodyWitch",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 88,
+                    "solo": 88
+                }
+            },
+            "account": {
+                "name": "Inskinn",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "inskinn"
+                }
+            }
+        },
+        {
+            "rank": 948,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "5b37d02036bc1971d8c7514e726782488ffdcb869c72aac092f29d65fbfa8c9c",
+                "name": "xleuslckos",
+                "level": 100,
+                "class": "Pathfinder",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 415,
+                    "solo": 415
+                }
+            },
+            "account": {
+                "name": "anicocia",
+                "realm": "pc",
+                "challenges": {
+                    "total": 21
+                },
+                "twitch": {
+                    "name": "anicocia"
+                }
+            }
+        },
+        {
+            "rank": 949,
+            "dead": false,
+            "character": {
+                "id": "e3e4912d1d8079490684f5bebe8c3ddc5698f146ecf03ed48dd704f2df34a599",
+                "name": "banka\u0e2e\u0e34\u0e2e\u0e34_ultimat",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "misterputts",
+                "realm": "pc",
+                "challenges": {
+                    "total": 26
+                },
+                "twitch": {
+                    "name": "bankaeu"
+                }
+            }
+        },
+        {
+            "rank": 950,
+            "dead": false,
+            "character": {
+                "id": "f20f6713267fbb7b77fd8272d523ae8bf3d69396cd875eb50330a39011425555",
+                "name": "OneWildNight",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 103,
+                    "solo": 103
+                }
+            },
+            "account": {
+                "name": "darkforce1985",
+                "realm": "pc",
+                "challenges": {
+                    "total": 9
+                }
+            }
+        },
+        {
+            "rank": 951,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a5702018dfe2b858195013c0f3ab6866df98b321c4fce5e39c6e8d30fddc364b",
+                "name": "LordUltimatum",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 35,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "emrebaba5",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "laisesfaire"
+                }
+            }
+        },
+        {
+            "rank": 952,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "7f80ce57c53f952f3a37a5b5184f15ec1a65ab44fa7efccefe814d7ae142fc00",
+                "name": "concheliga",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 65,
+                    "solo": 65
+                }
+            },
+            "account": {
+                "name": "vbivec",
+                "realm": "pc",
+                "challenges": {
+                    "total": 23
+                },
+                "twitch": {
+                    "name": "andygurin"
+                }
+            }
+        },
+        {
+            "rank": 953,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "1831bf64a52a69d5280fa9cb6127475afbfd42cafadc2aaaaed5b2062ce57608",
+                "name": "Emitz_Ultimatum",
+                "level": 100,
+                "class": "Trickster",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "emitzz",
+                "realm": "pc",
+                "challenges": {
+                    "total": 14
+                }
+            }
+        },
+        {
+            "rank": 954,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d5abcda7cd3f55636ede7256d76486c92ae72aaad1c4b8283eb3e0cb144dafea",
+                "name": "AkiraZoom",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 267,
+                    "solo": 267
+                }
+            },
+            "account": {
+                "name": "Ballislife723",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                }
+            }
+        },
+        {
+            "rank": 955,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "7099918f697c1f0b3d337eb16d3add31410ef47b703399054c3557d7e9c1087d",
+                "name": "ScionBFBB",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 44,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "jinzoex",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "escostream"
+                }
+            }
+        },
+        {
+            "rank": 956,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "f769d4e68dbce4e10bbc85487b2461d4aec6699d60d3cdd8c0634a0354b90384",
+                "name": "Adoption",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 74,
+                    "solo": 74
+                }
+            },
+            "account": {
+                "name": "Adoption",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "kidtum"
+                }
+            }
+        },
+        {
+            "rank": 957,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "97725db0192c64071264b7b6a68d90baccdc06d2023910965087a475967e298d",
+                "name": "MGT_ULT_WITCH",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 203,
+                    "solo": 203
+                }
+            },
+            "account": {
+                "name": "mmmnn",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                }
+            }
+        },
+        {
+            "rank": 958,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "69909990a56d12e63b64c95e266381a958beb4ceaacc1bcb989feb2f6402a093",
+                "name": "CTRL_EZ",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 235,
+                    "solo": 235
+                }
+            },
+            "account": {
+                "name": "CTRLDDD",
+                "realm": "pc",
+                "challenges": {
+                    "total": 39
+                },
+                "twitch": {
+                    "name": "fea1838"
+                }
+            }
+        },
+        {
+            "rank": 959,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ac803b49632e73f06684525afc9bdd3cc56e5baafc008e49571d070eb3bef703",
+                "name": "Destiny\u318dHERO\u318dPlasma",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 37,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "CnPanic",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                }
+            }
+        },
+        {
+            "rank": 960,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "323a53b8c8c8612fb1735a45a1500580dd62f7bf97c4d3d6678d659912a12637",
+                "name": "SouthFront",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "clinkbey",
+                "realm": "pc",
+                "challenges": {
+                    "total": 8
+                },
+                "twitch": {
+                    "name": "unluckynewbie"
+                }
+            }
+        },
+        {
+            "rank": 961,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "6a42c2d8905c5dabec9145ce163573cdcc50b9897078210f5f714fc79c358212",
+                "name": "Ultimatum_\ud55c\ub9bc\uccb4\uc721\uad00\uc0ac\ubcf4\ucd94\uc5b4",
+                "level": 100,
+                "class": "Saboteur",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 156,
+                    "solo": 156
+                }
+            },
+            "account": {
+                "name": "\ub514\uc544\uc811\uace0PEO",
+                "realm": "pc",
+                "challenges": {
+                    "total": 27
+                },
+                "twitch": {
+                    "name": "kmblwy"
+                }
+            }
+        },
+        {
+            "rank": 962,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "867e49ece92e3486d1c2395e32ef1d1e9300cfe62eadbfb6f9f7a631ca6401a2",
+                "name": "WXNG_SADGE",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 36,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "wxng",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "wengx"
+                }
+            }
+        },
+        {
+            "rank": 963,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "8fa863f573849085e636b4b78328ad05317dbb5414bdc320f7f7b9f11f419ca4",
+                "name": "Ult_Witch_Starter",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 36,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "\ud53c\uc624\uc774\ub178\uc7bc",
+                "realm": "pc",
+                "challenges": {
+                    "total": 23
+                },
+                "twitch": {
+                    "name": "cooljin17444"
+                }
+            }
+        },
+        {
+            "rank": 964,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "174d7a8e88a6c94b72fdd513af3c9aa72de1bb4b2c448ea69318fadfba7f2746",
+                "name": "DeftCoC",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 249,
+                    "solo": 249
+                }
+            },
+            "account": {
+                "name": "Deft621",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "deft621"
+                }
+            }
+        },
+        {
+            "rank": 965,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "3e9442b4c626ec35bf23df4189e1463674c0fdfa6734acc632947da2c00496ae",
+                "name": "BBRUSC",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 217,
+                    "solo": 217
+                }
+            },
+            "account": {
+                "name": "tolyanich",
+                "realm": "pc",
+                "challenges": {
+                    "total": 23
+                },
+                "twitch": {
+                    "name": "madeinpodval"
+                }
+            }
+        },
+        {
+            "rank": 966,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "66f465d3cf247dc49123a52ccac4c6a0884de8e2beb8bd3eb1537dda8e3ae2f0",
+                "name": "XereCarry",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 141,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "ultimatewpn",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "ultimatewpn"
+                }
+            }
+        },
+        {
+            "rank": 967,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "3b50f9d42fccb24ce2a28b9b9484dd649ba01be251cf0a1396c85bef80f98fc2",
+                "name": "\uc0bc\uc704\uc77c\uccb4\uc5f0\ubc88\ud560\ubc30",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 155,
+                    "solo": 155
+                }
+            },
+            "account": {
+                "name": "tame14",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "tame15"
+                }
+            }
+        },
+        {
+            "rank": 968,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b6f68e63acdf8bd4556890938b00b886b613238bb9d4fefc87bc3bef1752ab2f",
+                "name": "BoneField",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 57,
+                    "solo": 57
+                }
+            },
+            "account": {
+                "name": "MassBurial",
+                "realm": "pc",
+                "challenges": {
+                    "total": 13
+                }
+            }
+        },
+        {
+            "rank": 969,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "f87983ce498ef6e449d0de2d2dc8c8a72af1e1b6ec0c03e4d861ad913afe2f80",
+                "name": "TakGoo",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 99,
+                    "solo": 99
+                }
+            },
+            "account": {
+                "name": "takgoo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 23
+                },
+                "twitch": {
+                    "name": "takgoo"
+                }
+            }
+        },
+        {
+            "rank": 970,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "49716cfe720aed98b572427872d48e3a47f839962f5167fdacdb7f2ba4fca397",
+                "name": "Filthy_Feet",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 85,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "ZenkoAsMs",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "filthy_hands"
+                }
+            }
+        },
+        {
+            "rank": 971,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "70ee49b6fa2f8008e8ca1dd838d9d3e02a6dc869808b8660fcecc5b73b03f139",
+                "name": "ultimatum_\uc704\ucc0c",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 184,
+                    "solo": 184
+                }
+            },
+            "account": {
+                "name": "bong8682",
+                "realm": "pc",
+                "challenges": {
+                    "total": 23
+                }
+            }
+        },
+        {
+            "rank": 972,
+            "dead": false,
+            "character": {
+                "id": "285ce958c16976f7d6ae031d645c4647b18ebf52d33551d54c7b2bc983b0aaae",
+                "name": "SpiderLancerUltima",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 242,
+                    "solo": 242
+                }
+            },
+            "account": {
+                "name": "Poohace",
+                "realm": "pc",
+                "challenges": {
+                    "total": 22
+                }
+            }
+        },
+        {
+            "rank": 973,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d5c7240a74408461c7170f5d2fa921b6c51218e6c32433660c948e5518618df4",
+                "name": "SpookyOccultimatoe",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Spookydeath",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "spookydeath"
+                }
+            }
+        },
+        {
+            "rank": 974,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "8122e2bd56281eaad8d86f3fa1713e2e26e9e721bbda7c6f4d824ec2c3b58383",
+                "name": "QOSMOZ_ULTI",
+                "level": 100,
+                "class": "Saboteur",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 256,
+                    "solo": 256
+                }
+            },
+            "account": {
+                "name": "QosmozGaming",
+                "realm": "pc",
+                "challenges": {
+                    "total": 20
+                },
+                "twitch": {
+                    "name": "qosmoz"
+                }
+            }
+        },
+        {
+            "rank": 975,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "53bef5d03eaa3e598b3ce97e3889f216f9d2a4f580782d8705556be9a70276c6",
+                "name": "EZPogUPepegaClapper",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 33,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Revern537",
+                "realm": "pc",
+                "challenges": {
+                    "total": 24
+                },
+                "twitch": {
+                    "name": "537revern"
+                }
+            }
+        },
+        {
+            "rank": 976,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "41186137c8fbe33b648f68ab28ffc6536d5746d9b2d22fc80af3c680ed29bb3c",
+                "name": "AKFJMVK",
+                "level": 100,
+                "class": "Occultist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 228,
+                    "solo": 228
+                }
+            },
+            "account": {
+                "name": "nnn5999",
+                "realm": "pc",
+                "challenges": {
+                    "total": 16
+                }
+            }
+        },
+        {
+            "rank": 977,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "18ec817e6229c34064ee80af6650b0b15b43646ddd9a10427126f3df8b655d03",
+                "name": "FrostBallsCock",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 57,
+                    "solo": 57
+                }
+            },
+            "account": {
+                "name": "CeJIDb",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                },
+                "twitch": {
+                    "name": "cejidb"
+                }
+            }
+        },
+        {
+            "rank": 978,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ccc7c70e068008b8df20825d9f8ed4510182a968e3ad812b4b6c23c497d9f357",
+                "name": "Frikkd",
+                "level": 100,
+                "class": "Juggernaut",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 332,
+                    "solo": 332
+                }
+            },
+            "account": {
+                "name": "frikkfroak",
+                "realm": "pc",
+                "challenges": {
+                    "total": 25
+                }
+            }
+        },
+        {
+            "rank": 979,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a5f517a045e5716a4c3f040c9791ca3133df712e4a04b4e2dc7fc3a58910cd7f",
+                "name": "LOKObersCycloner",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 236,
+                    "solo": 235
+                }
+            },
+            "account": {
+                "name": "LOKOMOTIV4egg",
+                "realm": "pc",
+                "challenges": {
+                    "total": 33
+                },
+                "twitch": {
+                    "name": "lokomotiv4egg1"
+                }
+            }
+        },
+        {
+            "rank": 980,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "6c579f0a45fa053380ebcc703cda6024f5b892bc2a062f5ab1723c80c2ae34fe",
+                "name": "ChilledNEETFEET",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Anton1392",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "anton0261"
+                }
+            }
+        },
+        {
+            "rank": 981,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "0ff72df0f1a73eff0e9e598ed3764c4eed1855845faa02f3fa41009894ae695c",
+                "name": "NoGameNoGain",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 121,
+                    "solo": 121
+                }
+            },
+            "account": {
+                "name": "NoGameNoGain",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                },
+                "twitch": {
+                    "name": "effoooooooooooooooooooort"
+                }
+            }
+        },
+        {
+            "rank": 982,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "26b9325b925183fa0a38017207d353f271ac6d07db357482277643a7d540c335",
+                "name": "Inunyanko_Ironman",
+                "level": 100,
+                "class": "Berserker",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 45,
+                    "solo": 45
+                }
+            },
+            "account": {
+                "name": "inunyanko",
+                "realm": "pc",
+                "challenges": {
+                    "total": 19
+                },
+                "twitch": {
+                    "name": "inu_otoko"
+                }
+            }
+        },
+        {
+            "rank": 983,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a3f7c8454c135f6df033dcdfdd67cdee763d3b3e2bfee53e2d4bb9a2edea619a",
+                "name": "TaintedOxide",
+                "level": 100,
+                "class": "Slayer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 2,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "OxideTheRekter",
+                "realm": "pc",
+                "challenges": {
+                    "total": 36
+                },
+                "twitch": {
+                    "name": "oxiderq"
+                }
+            }
+        },
+        {
+            "rank": 984,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "a9508e0fda059e0fbaac59226bf2c16c37048172e5f0cbb4d37b404d1baeaa73",
+                "name": "Sinx_BEAM",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 206,
+                    "solo": 206
+                }
+            },
+            "account": {
+                "name": "AshleySinx",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                }
+            }
+        },
+        {
+            "rank": 985,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "51e98983748db947a49907c49dd4fdbf16b039eab9845f578bf77dfa0f1f8636",
+                "name": "ZykenusXXXII",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 65,
+                    "solo": 65
+                }
+            },
+            "account": {
+                "name": "Zloader",
+                "realm": "pc",
+                "challenges": {
+                    "total": 34
+                }
+            }
+        },
+        {
+            "rank": 986,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d1758cbeba7f1715cef4c742a1be76e09099315605d4efaf8185f560863cc258",
+                "name": "\u318dCharles",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 86,
+                    "solo": 86
+                }
+            },
+            "account": {
+                "name": "Charlesxo",
+                "realm": "pc",
+                "challenges": {
+                    "total": 39
+                },
+                "twitch": {
+                    "name": "chvrlesxo"
+                }
+            }
+        },
+        {
+            "rank": 987,
+            "dead": false,
+            "character": {
+                "id": "24b9d1429ef5b9bf7fd27bd671252f6aef1fca6011b5236112b74e6af7844e8b",
+                "name": "REYBerrakoFrostBoooM",
+                "level": 100,
+                "class": "Elementalist",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "ReyBerrako",
+                "realm": "pc",
+                "challenges": {
+                    "total": 39
+                },
+                "twitch": {
+                    "name": "reyberrako"
+                }
+            }
+        },
+        {
+            "rank": 988,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "624ef2c2ba467b9b7afb59ec0526882ad7f2aff25f7a984047c304ddc9a8cfee",
+                "name": "Noobsneedsbuffagain",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Loggi7",
+                "realm": "pc",
+                "challenges": {
+                    "total": 17
+                },
+                "twitch": {
+                    "name": "loggi7"
+                }
+            }
+        },
+        {
+            "rank": 989,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "d662574b0aa86abf42916f98e6242dca0cbcb8c039b1789757100c3c2df5c9e5",
+                "name": "Grrrm",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 202,
+                    "solo": 202
+                }
+            },
+            "account": {
+                "name": "passion0505",
+                "realm": "pc",
+                "challenges": {
+                    "total": 40
+                }
+            }
+        },
+        {
+            "rank": 990,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "3eb69d5af994e4e0fa7c9c1600c2b0b5ba0f2cc525dba97b56b6a0ed02549149",
+                "name": "Dark_ark",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 50,
+                    "solo": 50
+                }
+            },
+            "account": {
+                "name": "howpc80",
+                "realm": "pc",
+                "challenges": {
+                    "total": 13
+                }
+            }
+        },
+        {
+            "rank": 991,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b600eeab0856ab52da3c8354b3b4e7ba83e43935b6f5d7a29418a638e0460902",
+                "name": "FieryLichQueen",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 353,
+                    "solo": 353
+                }
+            },
+            "account": {
+                "name": "FieryChan",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                },
+                "twitch": {
+                    "name": "fierychan"
+                }
+            }
+        },
+        {
+            "rank": 992,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "e68bcebb714313f74f7c76c736d1fc6ba279cac286ed0277cd64a760cf3b75d8",
+                "name": "_SanguineScion",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 2,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "soukke",
+                "realm": "pc",
+                "challenges": {
+                    "total": 17
+                }
+            }
+        },
+        {
+            "rank": 993,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "fabdb49732682c60491139afd9d4c3b584341e4243b2880e5269f0a885104ef0",
+                "name": "TmBlue_Ultimat",
+                "level": 100,
+                "class": "Deadeye",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "Tmbluee",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                },
+                "twitch": {
+                    "name": "heiheiuk"
+                }
+            }
+        },
+        {
+            "rank": 994,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "b663a8f1cfa0aa182235ca186234597940af7740db92f02575ff64fea24b2456",
+                "name": "RailMissesSakuya",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 178,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Railqun",
+                "realm": "pc",
+                "challenges": {
+                    "total": 15
+                }
+            }
+        },
+        {
+            "rank": 995,
+            "dead": false,
+            "character": {
+                "id": "97ed24909f7350dd68b6e20a3d3cbf1534bfa07652adb8d0a2d62c2ed7668b09",
+                "name": "AliousUltimatumStarter",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 211,
+                    "solo": 211
+                }
+            },
+            "account": {
+                "name": "Alious",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                },
+                "twitch": {
+                    "name": "alioustm"
+                }
+            }
+        },
+        {
+            "rank": 996,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "2074cf14b7c505325f7383375517216c42099d6f742fbbf549f770a5900fa734",
+                "name": "RbangLT",
+                "level": 100,
+                "class": "Assassin",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 26,
+                    "solo": 0
+                }
+            },
+            "account": {
+                "name": "Rbang",
+                "realm": "pc",
+                "challenges": {
+                    "total": 35
+                },
+                "twitch": {
+                    "name": "so8780"
+                }
+            }
+        },
+        {
+            "rank": 997,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "fe5ae56963762cce43f57f6e269fc2c4c50e0c5eb04f317247234e3ac0808972",
+                "name": "RygnulVpobu",
+                "level": 100,
+                "class": "Raider",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 111,
+                    "solo": 111
+                }
+            },
+            "account": {
+                "name": "Ovilone",
+                "realm": "pc",
+                "challenges": {
+                    "total": 30
+                },
+                "twitch": {
+                    "name": "sevarld"
+                }
+            }
+        },
+        {
+            "rank": 998,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "96343a434c62af14528918a8bff9b3b2f8cfa48c06bcb9d99a8038282ff17a92",
+                "name": "\uacb0\uc804\uc2a4\ud0c0\ud2b8",
+                "level": 100,
+                "class": "Hierophant",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 159,
+                    "solo": 159
+                }
+            },
+            "account": {
+                "name": "Dandy2",
+                "realm": "pc",
+                "challenges": {
+                    "total": 29
+                },
+                "twitch": {
+                    "name": "dnrgus35"
+                }
+            }
+        },
+        {
+            "rank": 999,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "9de628a184dd2ec802a1202bb29a32a80c6985576d5fb7dc9bf3cf3cf4c78022",
+                "name": "\u318dFeeling\u318dA\u318dLive\u318d",
+                "level": 100,
+                "class": "Ascendant",
+                "experience": 4250334444
+            },
+            "account": {
+                "name": "synthesis360",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                },
+                "twitch": {
+                    "name": "yourfanathaha"
+                }
+            }
+        },
+        {
+            "rank": 1000,
+            "dead": false,
+            "public": true,
+            "character": {
+                "id": "ddbb5de7d7ff8c07665f07296e47698e4e85c1a1d7001ef27a6c2d115e11b9ed",
+                "name": "\uc6d0\uc8fc\uc728\ubb34\ub9ac\uc218\ub9ac\uadf8",
+                "level": 100,
+                "class": "Necromancer",
+                "experience": 4250334444,
+                "depth": {
+                    "default": 93,
+                    "solo": 93
+                }
+            },
+            "account": {
+                "name": "\ubcf4\uc2ac\uc544\uce58",
+                "realm": "pc",
+                "challenges": {
+                    "total": 18
+                }
+            }
+        }
+    ]
+}
