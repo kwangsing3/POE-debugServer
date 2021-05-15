@@ -21,6 +21,7 @@ func HomeHandler(w http.ResponseWriter, r *http.Request) {
 //SetRoute: setting router path, you can add whatever path you want.
 func SetRoute(r *mux.Router) {
 	// load sample
+	sandbox()
 	DataCenter = &model.DataCenter{}
 	DataCenter.Init()
 
