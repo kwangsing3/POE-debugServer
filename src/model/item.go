@@ -6,28 +6,28 @@ type Items struct {
 	TypeLine string `json:"typeline"`
 	Ilvl     int16  `json:"ilvl"`
 	League   string `json:"league"`
-	//畫面顯示資訊
+	//
 	W            uint16 `json:"w"`
 	H            uint16 `json:"h"`
 	Icon         string `json:"icon"`
 	StackSize    int16  `json:"stacksize"`
 	MaxStackSize int16  `json:"maxstacksize"`
-	//遊戲判定基礎資訊
+	//
 	IsIdentified  bool           `json:"isidentified"`
 	IsCorrupted   bool           `json:"iscorrupted"`
 	FrameType     int8           `json:"frameType"`
 	Sockets       []Socket       `json:"sockets"`
 	SocketedItems []SocketedItem `json:"socketedItems"`
 	InventoryId   string         `json:"inventoryId"`
-	//勢力物品
-	Shaper   bool `json:"shaper"`
-	Elder    bool `json:"elder"`
-	Crusader bool `json:"crusader"`
-	Redeemer bool `json:"redeemer"`
-	Hunter   bool `json:"hunter"`
-	Warlord  bool `json:"warload"`
-	//加成的詞墜列表
-	//CosmeticMods 		//商城時裝詞綴
+	//
+	IsShaper   bool `json:"shaper"`
+	IsElder    bool `json:"elder"`
+	IsCrusader bool `json:"crusader"`
+	IsRedeemer bool `json:"redeemer"`
+	IsHunter   bool `json:"hunter"`
+	IsWarlord  bool `json:"warload"`
+	//
+	//CosmeticMods
 	CraftedMods  []string `json:"craftedMods"`
 	EnchantMods  []string `json:"enchantMods"`
 	ImplicitMods []string `json:"implicitMods"`
@@ -67,8 +67,8 @@ type SocketedItem struct {
 	IsRedeemer bool `json:"redeemer"`
 	IsHunter   bool `json:"hunter"`
 	IsWarlord  bool `json:"warload"`
-	//加成的詞墜列表
-	//CosmeticMods 		//商城時裝詞綴
+	//
+	//CosmeticMods
 	CraftedMods []string `json:"craftedMods"`
 	//EnchantMods  []Mods `json:"enchantMods"`
 	ImplicitMods []string `json:"implicitMods"`

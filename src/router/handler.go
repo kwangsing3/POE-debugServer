@@ -8,41 +8,32 @@ import (
 )
 
 // Handler implement
-func GetCharacterHandler(w http.ResponseWriter, r *http.Request) {
+func GetCharacterHandler(w http.ResponseWriter, r *http.Request) (result []model.Character) {
 	//TODO:	to get character struct by character name and account name
 	//Default character list
-	result := []model.Character{
-		{
-			Name:            `Player01FromDBServer`,
-			League:          `Standard`,
-			ClassId:         0,
-			AscendancyClass: 0,
-			Class:           `Scion`,
-			Level:           100,
-			Experience:      4250334444,
-			LastActive:      true,
-		},
-		{
-			Name:            `Player02FromDBServer`,
-			League:          `Standard`,
-			ClassId:         0,
-			AscendancyClass: 0,
-			Class:           `Scion`,
-			Level:           100,
-			Experience:      4250334444,
-			LastActive:      true,
-		},
-		{
-			Name:            `Player03FromDBServer`,
-			League:          `Standard`,
-			ClassId:         0,
-			AscendancyClass: 0,
-			Class:           `Scion`,
-			Level:           100,
-			Experience:      4250334444,
-			LastActive:      true,
-		},
+	result = defaultCharactList
+	bytes, err := json.Marshal(result)
+	if err != nil {
+		errorstruct := model.ErrorResult{
+			Err: struct {
+				Code    int8   `json:"code"`
+				Message string `json:"message"`
+			}{
+				Code:    -99,
+				Message: `json Marshal wrong. (from Debug Server)`,
+			},
+		}
+		errorbytes, _ := json.Marshal(errorstruct)
+		w.Write(errorbytes)
+		return
 	}
+	w.Write(bytes)
+	return
+}
+
+func GetLeagueListCurrent(w http.ResponseWriter, r *http.Request) {
+	//TODO:	to get League info
+	result := defaultLeague
 	bytes, err := json.Marshal(result)
 	if err != nil {
 		errorstruct := model.ErrorResult{
@@ -61,9 +52,11 @@ func GetCharacterHandler(w http.ResponseWriter, r *http.Request) {
 	w.Write(bytes)
 }
 
-func GetLeagueListCurrent(w http.ResponseWriter, r *http.Request) {
-	//TODO:	to get League info
-	result := currentLeague
+var leaTURN = true //could be change type to enum or other variable type if need.
+func GetLeagueListTurn(w http.ResponseWriter, r *http.Request) {
+	result := map[bool]interface{}{true: defaultLeague, false: RitualLeague}[leaTURN]
+	leaTURN = !leaTURN
+
 	bytes, err := json.Marshal(result)
 	if err != nil {
 		errorstruct := model.ErrorResult{
@@ -81,15 +74,15 @@ func GetLeagueListCurrent(w http.ResponseWriter, r *http.Request) {
 	}
 	w.Write(bytes)
 }
-func GetLeagueListRandom(w http.ResponseWriter, r *http.Request) {
-	//TODO:	to get League info struct randomly, also give illegal struct
-}
+
 func GetItems(w http.ResponseWriter, r *http.Request) {
 	//TODO:	to get character items struct.
 }
+
 func GetPassiveTree(w http.ResponseWriter, r *http.Request) {
 	//TODO:	to get character's Passivetree struct.
 }
+
 func GetLadderHandler(w http.ResponseWriter, r *http.Request) {
 	//TODO:	to get Ladder of league
 }
